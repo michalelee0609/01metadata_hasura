@@ -61,4 +61,5 @@ check [Dev.to: Details of Arch/Design](https://dev.to/michalelee0609)
 P.S. Dev.to → comes in 24h-48h behind github to prepare details for reference.
 ## Beyond Hasura? Got data pipeline headaches?  
 check [Fiverr: Ready-to-deploy tools](https://www.fiverr.com/michalelee)
+i.e.Enterprise-Grade NiFi Template for Beginners (Schema Registry + Kafka + Step-by-Step-PDF).
 
