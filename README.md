@@ -47,6 +47,7 @@ graph LR
 ## Results
 
 >Requires some setup — not one-click.
+>
 >But once you manage metadata systematically, optimization becomes continuous.
 
 Theory is gray. Implementation turns it green.
