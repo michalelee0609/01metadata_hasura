@@ -1,6 +1,6 @@
 # DE_01Metadata_Hasura
-Framework of Lightweight scripts track, diffs and apply Hasura metadata.
-Adopt and adapt as needed.!
+Lightweight scripts track, diffs and apply Hasura metadata.
+Adopt and adapt as needed!
 
 ## Works out-of-the-box with: 
 HASURA_VERSION=v2.48.0 | CLI_VERSION=v2.48.0
