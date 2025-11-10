@@ -53,7 +53,7 @@ graph LR
 Theory is gray. Implementation turns it green.
 
 > If this sparked an idea or saved your time a little, give it a ⭐ — Let this helps more!
-![result](https://github.com/michalelee0609/DE_01Metadata_Hasura/raw/main/02_diagrams/result.png)
+![result](https://github.com/michalelee0609/01metadata_hasura/blob/main/02_diagrams/result.png)
 
 ---
 ## Interested in more details? 
